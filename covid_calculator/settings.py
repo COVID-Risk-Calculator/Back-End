@@ -34,7 +34,7 @@ DEBUG = env('DEBUG')
 SECRET_KEY = env('SECRET_KEY')
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Covidriskbackend-env.eba-pczqzisf.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
